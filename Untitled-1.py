@@ -1,4 +1,4 @@
-# python codes 
+,# python codes 
 
 # print("hello i have started learning the python")
 # print("my self om thakkar","i have started my journey to learn python with apna college on the date:03/06/2025")
@@ -25,8 +25,6 @@
 # print(x)
 
 # a=4
-# A="sally"
-# print(a)
 # print(A)
 
 
@@ -373,6 +371,6 @@ print(X)
 print(Y)
 # print(Z)
 
-
+print("hello world")
 
 
